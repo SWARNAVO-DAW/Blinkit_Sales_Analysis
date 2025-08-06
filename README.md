@@ -89,7 +89,7 @@ Blinkit_Sales_Analysis/
 - Customer Ratings Heatmaps
 - Size & Geographic Comparisons
 
-![Dashboard Preview](./Dashboard.png)
+![Dashboard Preview](./image/Dashoard.png)
 
 > 📄 [View Full PDF Report](./Blinkit%20Analysis%20SQL%20project%20report.pdf)
 
