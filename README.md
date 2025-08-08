@@ -52,12 +52,10 @@ This project performs a comprehensive sales, inventory, and customer satisfactio
 <h2><a id="project-structure"></a>Project Structure</h2>
 
 Blinkit_Sales_Analysis/
-│
 ├── README.md                            # Project documentation
 ├── Dashboard.png                        # Power BI dashboard screenshot
 ├── Blinkit Analysis SQL project report.pdf  # Full analysis report
 ├── Blinkit_Sales_Analysis.pbix          # Power BI dashboard file
-
 
 ---
 
